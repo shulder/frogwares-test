@@ -11,7 +11,7 @@
     - Vue-bytesize-icons (fancy SVG icons library)
     - axios (HTTP requests)
     
-### Structure
+### Structure:
 
     ├─client                    
     │  ├─src                  
