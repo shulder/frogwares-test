@@ -8,7 +8,7 @@
 - Client
     - Vue.js, Vue Router (minimal Vue-cli generated project)
     - Vue-Bootstrap (responsiveness out of the box)
-    - vue-bytesize-icons (fancy SVG icons library)
+    - Vue-bytesize-icons (fancy SVG icons library)
     - axios (HTTP requests)
     
 ### Structure
