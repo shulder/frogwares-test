@@ -1,0 +1,12 @@
+{
+  "dataPath": "./src/storage/data",
+  "schemasPath": "./src/storage/schemas",
+  "fileNames": {
+    "main": "MainPageInfo.json",
+    "quests": "GeneralQuestsInfo.json",
+    "leafs": "FinishedQuestsLeafs.json"
+  },
+  "schemaNames": {
+    "leafs": "FinishedQuestsLeafsSchema.json"
+  }
+}

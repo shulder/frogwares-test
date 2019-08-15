@@ -1,0 +1,17 @@
+{
+   "type":"array",
+   "items":{
+      "type":"object",
+      "properties":{
+         "name":{
+            "type":"string",
+            "required":true
+         },
+         "questId":{
+            "type":"integer",
+            "minimum":1,
+            "required":true
+         }
+      }
+   }
+}
