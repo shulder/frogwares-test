@@ -6,7 +6,7 @@
     - Nodemon (server hot-reloading)
     - jsonschema (for validating JSON sent via HTTP POST)
 - Client
-    - Vue.js, Vue Router (minimal Vue-cli generated project)
+    - Vue.js (v2.6.10), Vue Router (minimal Vue-cli generated project)
     - Vue-Bootstrap (responsiveness out of the box)
     - Vue-bytesize-icons (fancy SVG icons library)
     - axios (HTTP requests)
