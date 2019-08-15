@@ -1,5 +1,5 @@
 ### Packages used:
-- Server
+- Server (Node v10.15.3)
     - Express (easier API creation)
     - Cors (cross-origin requests during local development)
     - Morgan (logging requests to server console)
