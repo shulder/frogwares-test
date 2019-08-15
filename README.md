@@ -30,11 +30,11 @@
           │  └─controllers.js   
           ├─storage                                 # storage, which is simulating database with JSON files 
           │  ├─data                                 
-                ├─MainPageInfo.json
-                ├─GeneralQuestsInfo.json
-                ├─FinishedQuestsLeafs.json          # where the actual data in JSON is stored
+          │  │  ├─MainPageInfo.json
+          │  │  ├─GeneralQuestsInfo.json
+          │  │  ├─FinishedQuestsLeafs.json          # where the actual data in JSON is stored
           │  ├─schemas                              # schemas for validating incoming JSON
-                ├─FinishedQuestsLeafsSchema.json  
+          │  │   ├─FinishedQuestsLeafsSchema.json  
           │  ├─client.js                            # storage client to be used by controllers 
           │  └─config.json                          # storage config
           ├─main.js            
